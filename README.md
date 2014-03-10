@@ -1,3 +1,8 @@
 Drawing on the Web
 ======
-Charles Harary, Spring 2014
+>Hey there
+Spring 2014, New York University
+
+Charles Harary, student
+
+
